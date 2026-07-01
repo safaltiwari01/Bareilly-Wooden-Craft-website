@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #B22222;
+  --color-brand-red: #B22222;
+  --color-brand-dark: #8B1A1A; /* Deeper hover red shade */
+  
+  --font-heading: "Playfair Display", serif;
+  --font-body: "Plus Jakarta Sans", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #1f1f1f;
+}
+
+/* Fallback rules to force fonts across elements */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", serif !important;
+}
+
+p, span, a, button, input, select, textarea {
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
