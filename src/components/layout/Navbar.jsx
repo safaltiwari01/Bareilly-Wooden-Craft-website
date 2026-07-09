@@ -51,7 +51,6 @@ export default function Navbar() {
           <Link to="/" className="flex items-center gap-2 sm:gap-3 shrink-0">
             <img src="/logo.png" alt="Bareilly Wooden Crafts" className="h-10 sm:h-12 w-auto object-contain" />
             
-            {/* Fixed visibility classes: Changed 'hidden sm:block' to 'block' */}
             <div className="block leading-tight">
               <p className="font-semibold text-[13px] sm:text-[15px] text-[#1F1F1F]" style={{ fontFamily: "'Inter', sans-serif" }}>
                 Bareilly Wooden Crafts
@@ -101,7 +100,7 @@ export default function Navbar() {
               to="/contact"
               className="bg-[#B22222] hover:bg-[#8B1A1A] text-white px-5 py-2 text-[13px] font-semibold tracking-wide transition-all duration-200"
             >
-              <Request Quote>Request Quote</Request>
+              Request Quote
             </Link>
           </div>
 
