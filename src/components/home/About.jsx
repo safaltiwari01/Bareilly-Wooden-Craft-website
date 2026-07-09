@@ -29,8 +29,8 @@ export default function About() {
     <section id="about" className="bg-[#F8F4F0] py-24 lg:py-32">
       <div className="max-w-7xl mx-auto px-6 lg:px-10 grid lg:grid-cols-12 gap-12 lg:gap-16 items-start">
         
-        {/* Left Column: Fixed Structural Title Branding */}
-        <div className="lg:col-span-5 sticky top-28">
+        {/* Left Column: Structural Title Branding (Fixed Sticky Constraint for Mobile) */}
+        <div className="lg:col-span-5 lg:sticky lg:top-28">
           <span className="text-[#B22222] text-[11px] font-bold tracking-[0.25em] uppercase block mb-4">
             Corporate Overview
           </span>
