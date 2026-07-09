@@ -82,7 +82,7 @@ export default function Contact() {
           </h1>
           <div className="h-1 w-16 bg-[#B22222] mb-6" />
           <p className="text-[#444444] text-[15px] leading-[1.8] font-body">
-            Partner with Bareilly Wooden Craft Pvt. Ltd. for precision manufacturing of export-quality wooden products. Fill out our Request for Quote (RFQ) form below, and our commercial estimation team will evaluate your specifications within 24 business hours.
+            Partner with Bareilly Wooden Crafts Pvt. Ltd. for precision manufacturing of export-quality wooden products. Fill out our Request for Quote (RFQ) form below, and our commercial estimation team will evaluate your specifications within 24 business hours.
           </p>
         </div>
 

@@ -49,10 +49,10 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto px-6 lg:px-10 h-20 flex items-center justify-between">
 
           <Link to="/" className="flex items-center gap-3 shrink-0">
-            <img src="/logo.png" alt="Bareilly Wooden Craft" className="h-12 w-auto object-contain" />
+            <img src="/logo.png" alt="Bareilly Wooden Crafts" className="h-12 w-auto object-contain" />
             <div className="hidden sm:block leading-tight">
               <p className="font-semibold text-[15px] text-[#1F1F1F]" style={{ fontFamily: "'Inter', sans-serif" }}>
-                Bareilly Wooden Craft
+                Bareilly Wooden Crafts
               </p>
               <p className="text-[11px] tracking-widest uppercase text-[#8B5E3C] font-medium" style={{ fontFamily: "'Inter', sans-serif" }}>
                 Pvt. Ltd.

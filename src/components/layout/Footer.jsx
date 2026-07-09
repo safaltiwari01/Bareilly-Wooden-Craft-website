@@ -109,7 +109,7 @@ export default function Footer() {
 
         {/* Bottom Bar: Legal & Attribution */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-[12px] text-neutral-500">
-          <p>© {currentYear} Bareilly Wooden Craft Pvt. Ltd. All rights reserved.</p>
+          <p>© {currentYear} Bareilly Wooden Crafts Pvt. Ltd. All rights reserved.</p>
           <div className="flex items-center gap-6">
             <a href="#" className="hover:text-neutral-300 transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-neutral-300 transition-colors">Terms of Supply</a>

@@ -42,7 +42,7 @@ export default function About() {
           <div className="h-1 w-16 bg-[#B22222] mb-6" />
           
           <p className="text-neutral-500 text-sm leading-relaxed">
-            Operating out of Bareilly, Bareilly Wooden Craft Pvt. Ltd. has grown into a mechanized B2B wood fabrication manufacturing powerhouse. We blend master woodcraft engineering with disciplined delivery pipelines to service real estate developments, high-volume retail supply chains, and demanding export standards.
+            Operating out of Bareilly, Bareilly Wooden Crafts Pvt. Ltd. has grown into a mechanized B2B wood fabrication manufacturing powerhouse. We blend master woodcraft engineering with disciplined delivery pipelines to service real estate developments, high-volume retail supply chains, and demanding export standards.
           </p>
         </div>
 

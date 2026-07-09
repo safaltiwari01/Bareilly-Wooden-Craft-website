@@ -43,7 +43,7 @@ export default function Capabilities() {
           </h2>
           <div className="h-1 w-16 bg-[#B22222] mb-6" />
           <p className="text-[#444444] text-[15px] leading-[1.8]">
-            Bareilly Wooden Craft Private Limited couples modern woodworking technology with scalable logistics infrastructure. From raw log processing to automated sanding and finishing lines, our facility is engineered for continuous production capacity.
+            Bareilly Wooden Crafts Private Limited couples modern woodworking technology with scalable logistics infrastructure. From raw log processing to automated sanding and finishing lines, our facility is engineered for continuous production capacity.
           </p>
         </div>
 

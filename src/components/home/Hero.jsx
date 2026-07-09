@@ -72,7 +72,7 @@ export default function Hero() {
           <motion.p variants={fadeUp} initial="hidden" animate="visible" custom={0.34}
             className="text-[#444444] text-[15px] leading-[1.8] max-w-[520px] mb-4"
             style={{ fontFamily: "'Inter', sans-serif" }}>
-            Bareilly Wooden Craft Pvt. Ltd. manufactures premium wooden doors,
+            Bareilly Wooden Crafts Pvt. Ltd. manufactures premium wooden doors,
             chopping boards, home décor and custom wooden products for builders,
             wholesalers, exporters and OEM brands. Built for bulk. Built to last.
           </motion.p>
@@ -127,7 +127,7 @@ export default function Hero() {
               <motion.img
                 key={currentImageIndex}
                 src={IMAGES[currentImageIndex]}
-                alt="Premium wooden products by Bareilly Wooden Craft"
+                alt="Premium wooden products by Bareilly Wooden Crafts"
                 className="max-w-full max-h-full object-contain p-2"
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}

@@ -246,7 +246,7 @@ export default function Gallery() {
                 >
                   <img 
                     src={imgSrc} 
-                    alt="Bareilly Wooden Craft Factory Infrastructure"
+                    alt="Bareilly Wooden Crafts Factory Infrastructure"
                     className="w-full h-full object-cover transform group-hover:scale-103 transition-transform duration-500" 
                   />
                   <div className="absolute inset-0 bg-black/30 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
